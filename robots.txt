@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j0922881577-wq.github.io/bali-xiaolin-fishing/sitemap.xml
